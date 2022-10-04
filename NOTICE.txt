@@ -1,0 +1,18 @@
+"TAPHSIR" is © 2022 University of Luxembourg
+and is distributed under the GPL license.
+
+Authors:
+  	
+	Saad EZZINI <saad.ezzini@uni.lu>
+	Sallam ABUALHAIJA <sallam.abuahaija@uni.lu>
+	Chetan Arora
+	Mehrdad Sabetzadeh
+
+Paper:
+  - "Automated Handling of Anaphoric Ambiguity in Requirements: A Multi-solution Study", ICSE 2022
+
+"TAPHSIR" includes the following open source components:
+	- Binaries of Natural Language Toolkit (NLTK), Stanza, TensorFlow, and Sentence Transformers under Apache 2.0 License
+	- Binaries of openpyxl, et_xmfile, NimbusML, PyDotPlus, scikit-plot, imbalanced-learn, TextBlob, Berkeley Neural Parser (benepar), and spaCy under MIT License
+    - Binaries of scikit-learn under BSD License
+    - Binaries of Python under PSF License
